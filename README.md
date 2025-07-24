@@ -1,5 +1,5 @@
 
-# 🛍️ E-Commerce Web App (Fullstack)
+# 🛍️ E-Commerce Web App (Fullstack)  /(#brainwaveMatrix intern repostery)
 
 A complete e-commerce application with product listings, cart, and (in progress) user authentication and checkout flow. Built using HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
 
@@ -19,4 +19,6 @@ A complete e-commerce application with product listings, cart, and (in progress)
 - **Backend** (in progress): Node.js, Express
 - **Database**: MongoDB (Atlas)
 - **Version Control**: Git & GitHub
+
+
 
